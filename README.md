@@ -54,7 +54,15 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡  Fun fact: ...
+- ⚡  Fun fact: ... 
+
+
+### About my Hobbies 🥰
+
+- Traveling ✈️
+- Reading   📚
+- Movies    🎬
+- Run       🏃‍♂️
 
 <p align="center">
 <img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,4D00FE&chd=s:999999999999999999999999999999999999999999999999999999999&chld=AT|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|IE|PT|ES|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG|IT|NL|AW|CW|SX|BQ|JP|TH|VN|MX|CA|US|AS|UM|GU|MP|PR|VI|AE|QA|TR" width="600" height="400"  alt="How many countries I visited. Create your own travel map"><br/>I visited 20 countries of the United Nations (10.3%) out of 193.<br/><small>Create your own <a target="_blank" title="Create your travel map" href="https://www.joaoleitao.com/visited-countries-map/">travel map </a>.</small>
