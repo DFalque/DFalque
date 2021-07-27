@@ -1,3 +1,7 @@
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+![Captura de pantalla 2021-07-26 a las 18.26.37](/Users/falque/Desktop/Captura de pantalla 2021-07-26 a las 18.26.37.png)
+
 ### Hi there I´m Diego 👋
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, React Native.
