@@ -51,7 +51,7 @@
 
 ### Business Skills 👨💼
 
-- ⚡  I worked with these tools.
+- ⚡  I worked with different managment tools, these are some of them
 <p align="center">
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <img src="hhttps://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
