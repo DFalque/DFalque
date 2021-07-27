@@ -8,18 +8,13 @@
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 </p>
 
 
 
-
-    
-<center> <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
- <center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
-<center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
-<center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
