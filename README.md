@@ -23,6 +23,12 @@
 
 </p>
 
+- 🧠 I am not an expert in AI and Big Data but I know the existing algorithms, technologies and tools and also I have made small projects on my own.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
