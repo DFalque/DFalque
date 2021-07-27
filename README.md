@@ -37,9 +37,6 @@
 </p>
 
 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
-
 - 🤓 I´m interested in learning about these technologies.
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -48,15 +45,16 @@
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
 </p>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡  Fun fact: ...
+
 
 <br></br>
 
 ### Business Skills 👨💼
 
-
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡  Fun fact: ...
 
 
 
