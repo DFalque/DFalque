@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
 </p>
 
-<br></br>
-
-
-
 - 📚 I also work with Backend technologies but most of the times I use serverless 😅
 
 <p align="center">
@@ -35,7 +31,17 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡  Fun fact: ...
+
+- I normally use non-relational database tools but I have studied relational databases at university.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
 -->
+
+<br></br>
+
 
 ------------------------------
 
