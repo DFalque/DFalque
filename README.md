@@ -3,10 +3,6 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, React Native.
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
