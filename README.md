@@ -1,7 +1,7 @@
 ![Image](https://github.com/DFalque/images/blob/main/pantall99.png?raw=true)
 
 
-### Hi there I´m Diego 👋
+### Hi there I´m Diego. These are my IT Skills 👋
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, React Native.
 
@@ -40,7 +40,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
-- 🤔 I’m looking for help with ...
 - 🤓 I´m interested in learning about these technologies.
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -53,11 +52,10 @@
 - 📫 How to reach me: ...
 - ⚡  Fun fact: ...
 
-
-
--->
-
 <br></br>
+
+### Business Skills 👨💼
+
 
 
 
