@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
 </p>
 
+<br></br>
 
 
 
 - 📚 I also work with Backend technologies but most of the times I use serverless 😅
 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 </p>
+
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
