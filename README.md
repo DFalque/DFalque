@@ -7,9 +7,7 @@
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
-    <center> <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"><center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
-<center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
-<center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+  <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
@@ -18,7 +16,8 @@
 
 
     
-<center> <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"><center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+<center> <img align="center" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
+ <center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 <center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 <center><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
 
