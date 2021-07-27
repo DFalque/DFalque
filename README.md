@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
 </p>
 
-
+- 💅 I´m also do UX/UI design work with **Figma** and I love it ♥️
 
 <br></br>
 
@@ -64,7 +64,7 @@
 
 </p>
 
-
+<br></br>
 ### About my Hobbies 🥰
 
 - Traveling ✈️
