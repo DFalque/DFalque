@@ -1,8 +1,8 @@
-![Alt text](/Users/falque/Desktop/pantalla99.png?raw=true "Optional Title")
+![Alt text](/Users/falque/Desktop/pantall99.png?raw=true "Optional Title")
 
-![Captura de pantalla 2021-07-26 a las 18.26.37](/Users/falque/Desktop/pantalla99.png)
+![Captura de pantalla 2021-07-26 a las 18.26.37](/Users/falque/Desktop/pantall99.png)
 
-![Image](/Users/falque/Desktop/pantalla99.png?raw=true)
+![Image](/Users/falque/Desktop/pantall99.png?raw=true)
 
 
 ### Hi there I´m Diego 👋
