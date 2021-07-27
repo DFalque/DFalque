@@ -1,7 +1,3 @@
-![Alt text](/Users/falque/Desktop/pantall99.png?raw=true "Optional Title")
-
-![Captura de pantalla 2021-07-26 a las 18.26.37](/Users/falque/Desktop/pantall99.png)
-
 ![Image](https://github.com/DFalque/images/blob/main/pantall99.png?raw=true)
 
 
