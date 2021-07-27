@@ -1,4 +1,4 @@
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Users/falque/Desktop/Captura de pantalla 2021-07-26 a las 18.26.37.png?raw=true "Optional Title")
 
 ![Captura de pantalla 2021-07-26 a las 18.26.37](/Users/falque/Desktop/Captura de pantalla 2021-07-26 a las 18.26.37.png)
 
