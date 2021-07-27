@@ -27,21 +27,30 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
+- 💾 I normally use non-relational database tools but I have studied relational databases at university.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
 - 🤔 I’m looking for help with ...
+- 🤓 I´m interested in learning about these technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+</p>
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡  Fun fact: ...
 
-- I normally use non-relational database tools but I have studied relational databases at university.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
 
 -->
 
